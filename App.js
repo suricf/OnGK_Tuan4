@@ -211,6 +211,7 @@ export default function App() {
         </View>
       )}
       numColumns={2}
+      // numColumns={2}
       />
 
     </ScrollView>

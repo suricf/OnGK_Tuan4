@@ -234,7 +234,7 @@ export default function App() {
         </View>
         <View style={{justifyContent:'center',alignItems:'center'}}>
           <Image source={require("./assets/baiTH4/profileicon.png")} style={{width:40,height:40}}/>
-          <Text style={{color:'#fff'}}>Profile</Text>
+          <Text style={{color:'#fff'}}>Profile  </Text>
         </View>
     </View>
     </SafeAreaView>
